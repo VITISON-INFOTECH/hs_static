@@ -23,7 +23,7 @@
                 Wordpress Customization, OpenCart Customization requirements.
             </div>
             <div class="big_button shadow">
-                <a href="http://hansujasolutions.com/contact-us.html" title="Hansuja Solutions Contact Any Time">
+                <a href="contactus.php" title="Hansuja Solutions Contact Any Time">
                     <span>E-MAIL</span> US</a>
             </div>
             <img src="images/line.jpg" alt="Hansuja Solutions Contact Any Time" class="line" />
@@ -33,7 +33,7 @@
                 <div class="textarea">
                     <!-- box title-->
                     <h3 class="arrow shadow">
-                        <a href="http://hansujasolutions.com/web-design.html">
+                        <a href="web-design.php">
                             Website Development India</a>
                     </h3>
                     <div align="justify">
@@ -59,64 +59,26 @@
                 <div class="textarea">
                     <!-- box title-->
                     <h3 class="arrow shadow">
-                        <a href="http://hansujasolutions.com/services.html">Our specialist services include:</a>
+                        <a href="solutions.php">Our specialist services include:</a>
                     </h3>
                     <ul>
-                        <li>
-                            <a href="http://hansujasolutions.com/solutions.html">Website Design and Development</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/maintenance.html">
-                                Website Maintenance</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/hosting.html">Website Hosting</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/hosting.html">Domain Name Registrations</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/logo.html">Corporate Logos</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/solutions.html">Web Marketing Consulting</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/ecommerce.html">E-Commerce Applications</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/content.html">Software Development</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/content.html">CRM/CMS/B2B</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/content.html">Wordpress</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/solutions.html">Professional Website Content
-                                Editing</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/matimony.html">Matrimonial Portals</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/content.html">Courier/Cargo Tracking
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/online-jobs.html">Recruitment / Jobs portal
-                                script</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/web-training.html">Web Training</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/online-marketing.html">Online Marketing</a>
-                        </li>
-                        <li>
-                            <a href="http://hansujasolutions.com/bulk-sms.html">BULK SMS</a>
-                        </li>
+                        <li><a href="solutions.php">Website Design and Development</a></li>
+                        <li><a href="maintenance.php"> Website Maintenance</a></li>
+                        <li><a href="hosting.php">Website Hosting</a></li>
+                        <li><a href="hosting.php">Domain Name Registrations</a></li>
+                        <li><a href="logo.php">Corporate Logos</a></li>
+                        <li><a href="solutions.php">Web Marketing Consulting</a></li>
+                        <li><a href="ecommerce.php">E-Commerce Applications</a></li>
+                        <li><a href="content.php">Software Development</a></li>
+                        <li><a href="content.php">CRM/CMS/B2B</a></li>
+                        <li><a href="content.php">Wordpress</a></li>
+                        <li><a href="solutions.php">Professional Website Content Editing</a></li>
+                        <li><a href="matrimonial.php">Matrimonial Portals</a></li>
+                        <li><a href="content.php">Courier/Cargo Tracking </a></li>
+                        <li><a href="online-jobs.php">Recruitment / Jobs portal script</a></li>
+                        <li><a href="web-training.php">Web Training</a></li>
+                        <li><a href="online-marketing.php">Online Marketing</a></li>
+                        <li><a href="bulk-sms.php">BULK SMS</a></li>
                     </ul>
                     <br />
                 </div>
@@ -128,7 +90,7 @@
                 <div class="textarea">
                     <!-- box title-->
                     <h3 class="news shadow">
-                        <a href="http://hansujasolutions.com/portfolio.html">Recently Completed Projects</a>
+                        <a href="portfolio.php">Recently Completed Projects</a>
                     </h3>
                     <!-- text-->
 
