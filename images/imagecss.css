@@ -1,0 +1,35 @@
+/* CSS Document */
+
+*{
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 0px;
+}
+.imagehasa{
+width:960px;
+height:auto;
+
+}
+.imagehasa a img {
+border:2px salid #606060;
+}
+#mou{
+font-size:20px;
+padding-top:30px;
+color:#CC3300;
+font-size:19px;}
+#sss{
+margin-left:100px;
+margin-top:30px;
+border:1px salid #606060;
+
+}
+#sss1{
+margin-left:100px;
+margin-top:30px;
+border:1px salid #606060;
+
+
+}

@@ -1,0 +1,75 @@
+body{
+overflow-x: hidden;
+
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #E82C09 !important ;
+    border-color: #d43f3a;
+}
+
+
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #09134E !important;
+    border:none !important;
+    color:#fff !important;
+}
+
+.acco{background-color: skyblue;
+padding-top: 20px;
+padding-bottom: 185px;}
+
+.acco a{text-decoration: none;}
+
+
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color:white;
+    border: 1px solid #ddd;
+}
+
+
+.panel-body {
+    padding: 0px;
+    padding-bottom: 0px;
+    background-color:#fff !important;
+    border-bottom: none !important;
+
+}
+
+.panel-body a{text-decoration: none;
+color:black;}
+
+.panel-body a:hover{background-color: transparent !important;}
+
+
+..panel-group {
+    margin-bottom: -20px !important;
+}
+.panel-group .panel+.panel {
+    margin-top: 0px !important;
+}
+
+.panel-body {
+    padding: 0px 0px !important;
+    /* padding-bottom: 0px; */
+    background-color: skyblue;
+    border-bottom: none !important;
+    height:240px !important;
+    border-radius:0px !important;
+}
+
+@media only screen and (max-width: 720px) {
+
+#form {
+   
+}
+
+}
+
