@@ -59,11 +59,11 @@
                             <div class="box middle">
                                 <div class="textarea">
                                     <!-- sub link -->
-                                    <ul>
+                                    <ul> 
                                         <li><b>Address:
-                                                <pre><b>2-9-180/11 , New Bharath Nagar<br/> Near KKR Function Hall Lane, <br/>Uppal , Hyderabad , Telangana,<br/> 500039 India</b></pre>
+                                                <pre><b>New Bharath Nagar Street No.9,<br/> Near KKR Function Hall Lane, <br/>Uppal , Hyderabad , Telangana,<br/> 500039 India</b></pre>
                                         </li>
-                                        <li><b>Contact No : </b> +91 7842478495 <br /></li>
+                                        <li><b>Contact No : </b> +91 9032002121 <br /></li>
                                         <li><b>E-Mail: </b> info@hansujasolutions.com</li>
                                     </ul>
                                 </div>
