@@ -67,6 +67,7 @@
             -o-transition: background 0.2s ease-in-out;
             transition: background 0.2s ease-in-out;
         }
+
         /* Demo Text */
         .demo-text {
             font-family: helvetica, sans-serif;
@@ -123,4 +124,5 @@
     <!-- Social Icons -->
 
 </body>
+
 </html>

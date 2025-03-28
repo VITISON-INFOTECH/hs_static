@@ -1,13 +1,13 @@
-<?php  
-if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) && isset($_POST['message'])){
-	
+<?php
+if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) && isset($_POST['message'])) {
+
 	$name = $_POST['name'];
 	$phone = $_POST['phone'];
 	$email = $_POST['email'];
 	$mesage = $_POST['message'];
-	
-	if(!empty($name) && !empty($phone) &&  !empty($email) && !empty($mesage)){
-		
+
+	if (!empty($name) && !empty($phone) && !empty($email) && !empty($mesage)) {
+
 		$to = 'mail.venky542@gmail.com';
 		$subject = 'Register';
 		$message = '<html><body>';
@@ -24,26 +24,26 @@ if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) && 
 		//$body = "Last Name: ".$last_name."\n"."First Name: ".$first_name."\n"."Mobile: ".$countryCode." ".$mobile."\n"."Email Id: ".$email."\n"."Location: ".$location."\n"."Comment: ".$comment;
 		$headers = "MIME-Version: 1.0" . "\r\n";
 		$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-		$headers .= 'From: '.$email  . "\r\n";
-		if(mail($to, $subject, $message, $headers)){
+		$headers .= 'From: ' . $email . "\r\n";
+		if (mail($to, $subject, $message, $headers)) {
 			// echo "success";
-		 	echo "<script>
+			echo "<script>
 				alert('Success');
 				location.href='index.html';
-		 	</script>"; 
+		 	</script>";
 
-		 	//header('Location: contact-us.html');
+			//header('Location: contact-us.html');
 
-		}else{
+		} else {
 			// echo "failed";
 			echo "<script>
 				alert('Please Try Again....');
-				location.href='contact-us.html';
+				location.href='contactus.php';
 		 	</script>";
-		 	
-			
+
+
 		}
 	}
-		
+
 }
 ?>
