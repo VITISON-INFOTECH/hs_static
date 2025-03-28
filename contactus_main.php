@@ -59,7 +59,7 @@
                             <div class="box middle">
                                 <div class="textarea">
                                     <!-- sub link -->
-                                    <ul> 
+                                    <ul>
                                         <li><b>Address:
                                                 <pre><b>New Bharath Nagar Street No.9,<br/> Near KKR Function Hall Lane, <br/>Uppal , Hyderabad , Telangana,<br/> 500039 India</b></pre>
                                         </li>
