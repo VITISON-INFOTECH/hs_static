@@ -213,9 +213,7 @@
 
                    
                     <!--/ Page Left-->
-                    <!-- Page Right-->
-                    <?php include "page-right.html" ?>
-                    <!--/  Page Right -->
+                   
                     <div class="clear"></div>
                     <div class="cont4">
 
