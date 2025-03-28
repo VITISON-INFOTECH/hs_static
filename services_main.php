@@ -12,7 +12,7 @@
                 <!-- sub page header-->
                 <div id="sub_page_header">
                     <div class="left">
-                        <h1 class="shadow">About Us</h1>
+                        <h1 class="shadow">Services</h1>
                         <!-- Page navigation-->
                         <div class="breadcrumb shadow">You are here: <a href="index.html">Home</a> \ Services</div>
                         <!-- /Page navigation-->
@@ -29,47 +29,100 @@
                     <!-- Page Left-->
                     <div class="content">
 
-                        <h2>Hansuja Solutions</h2>
-                        <p align="justify"><a href="http://hansujasolutions.com/"
-                                title="Hansuja Solutions Software Development"><img src="images/about.png" width="220"
-                                    height="137" class="alignleft" alt="Hansuja Solutions Software Development" /></a>
-                            We develop quality software and applications from 2012. Today our team delivers custom
-                            software
-                            and
-                            provides outsourced software development for start-ups and solid companies in many countries
-                            of
-                            the
-                            world. Recent years proved that Shreshta team is really stable. Our personnel turnover rate
-                            was
-                            below 10% per annum and this is quite low as compared to some other companies. </p>
-                        <p align="justify">Team’s stability is the best mark of a healthy spirit in the company and the
-                            staff’s
-                            professionalism. It points out that employees have good working conditions.Due to these
-                            facts we
-                            achieve success for each project as the chance to loose key people of the project is equal
-                            to
-                            almost
-                            zero.On the other hand out team grows every year that helps us to improve our skills by
-                            acquiring
-                            knowledge of new employees.</p>
+                        <!-- blog box-->
+                        <div class="blog_box">
+                            <!-- blog headline-->
+                            <h3><a href="http://www.templatemints.com/rttheme8/blog_post.html" title="">Services We
+                                    provide for Our Customers</a></h3>
+                            <!-- / blog headline-->
 
-                        <h3>Reasons To Choose Hansuja Solutions</h3>
+                            <!-- date and cathegory bar -->
+                            <div class="dateandcategories">
 
-                        <p align="justify">
-                            Successful project begins from its idea development and implementation planning. Before we
-                            offer
-                            a
-                            solution, Hansuja Solutions analyze the core of your project, its goals and perspectives,
-                            individual
-                            specific needs. Whatever you may need – custom software development, business management
-                            solution
-                            integration, mobile or web application development, we are here to provide you with
-                            necessary
-                            solution. Here you can get any software development life cycle services – from project idea
-                            elaboration and planning to implementation and ongoing support. </p>
+                            </div>
+                            <!-- / date and cathegory bar -->
 
-                        <br />
+                            <!-- blog text-->
+                            <p align="justify">
+                                <!-- blog image-->
+                                <img src="images/serv.png" width="220" height="137" class="image alignleft" />
+                                <!-- / blog image -->
+                                Whether your business already has an internal software development team and is looking
+                                to increase capacityy, or you are looking to build new capability, Godel's Extended
+                                Software Development Team model will provide a market-leading solution to meet your
+                                needs. .
+                                The case for adopting a Godel Extended Software Development Team is clear. As an
+                                extremely competitive marketplace with high levels of staff turnover, the software
+                                development industry sees a continual battle for top-level talent.
+                            </p>
+                            <!-- /blog text-->
 
+                        </div>
+                        <!-- blog box-->
+
+
+                        <!-- blog box-->
+                        <div class="blog_box">
+                            <!-- blog headline-->
+                            <h3><a href="http://www.templatemints.com/rttheme8/blog_post.html" title="">SOFTWARE
+                                    DEVELOPMENT</a></h3>
+                            <!-- / blog headline-->
+
+                            <!-- date and cathegory bar -->
+                            <div class="dateandcategories">
+
+                            </div>
+                            <!-- / date and cathegory bar -->
+
+                            <!-- blog text-->
+                            <p align="justify">
+                                <!-- blog image-->
+                                <img src="images/webd.png" width="220" height="137" class="image alignleft" />
+                                <!-- / blog image -->
+                                We develop quality software and applications from 2012. Today our team delivers custom
+                                software and provides outsourced software development for start-ups and solid companies
+                                in many countries of the world. At Hansuja Solutions Successful project begins from its
+                                idea development and implementation planning. Before we offer a solution, Shresta
+                                analyze the core of your project, its goals and perspectives, individual specific needs.
+                            </p>
+                            <!-- /blog text-->
+
+                        </div>
+                        <!-- blog box-->
+
+                        <!-- blog box-->
+                        <div class="blog_box">
+                            <!-- blog headline-->
+                            <h3><a href="http://www.templatemints.com/rttheme8/blog_post.html" title="">SOFTWARE
+                                    TESTING</a></h3>
+                            <!-- / blog headline-->
+
+                            <!-- date and cathegory bar -->
+                            <div class="dateandcategories">
+
+                            </div>
+                            <!-- / date and cathegory bar -->
+
+                            <!-- blog text-->
+                            <p align="justify">
+                                <!-- blog image-->
+                                <img src="images/soft.png" width="220" height="137" class="image alignleft" />
+                                <!-- / blog image -->
+                                Hansuja Solutions is a software development provider who aims to deliver effective and
+                                quality solutions to our clients. To achieve this aim we begin quality assurance process
+                                at the stage of the product architecture creation and we end it at the moment of the
+                                ready product delivery. We do software testing to ensure that it meets the requirements,
+                                industry standards, security, has compliance with the business goals it was designed to
+                                achieve.
+                            </p>
+                            <!-- /blog text-->
+
+                        </div>
+                        <!-- blog box-->
+
+                        <!-- paging-->
+
+                        <!-- / paging-->
 
                     </div>
                     <!--/ Page Left-->
