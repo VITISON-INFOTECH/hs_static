@@ -14,7 +14,7 @@
                     <div class="left">
                         <h1 class="shadow">Services</h1>
                         <!-- Page navigation-->
-                        <div class="breadcrumb shadow">You are here: <a href="index.html">Home</a> \ Services</div>
+                        <div class="breadcrumb shadow">You are here: <a href="index.php">Home</a> \ Services</div>
                         <!-- /Page navigation-->
                     </div>
 
@@ -32,7 +32,7 @@
                         <!-- blog box-->
                         <div class="blog_box">
                             <!-- blog headline-->
-                            <h3><a href="http://www.templatemints.com/rttheme8/blog_post.html" title="">Services We
+                            <h3><a href="#" title="">Services We
                                     provide for Our Customers</a></h3>
                             <!-- / blog headline-->
 
@@ -64,7 +64,7 @@
                         <!-- blog box-->
                         <div class="blog_box">
                             <!-- blog headline-->
-                            <h3><a href="http://www.templatemints.com/rttheme8/blog_post.html" title="">SOFTWARE
+                            <h3><a href="#" title="">SOFTWARE
                                     DEVELOPMENT</a></h3>
                             <!-- / blog headline-->
 
@@ -93,7 +93,7 @@
                         <!-- blog box-->
                         <div class="blog_box">
                             <!-- blog headline-->
-                            <h3><a href="http://www.templatemints.com/rttheme8/blog_post.html" title="">SOFTWARE
+                            <h3><a href="#" title="">SOFTWARE
                                     TESTING</a></h3>
                             <!-- / blog headline-->
 

@@ -14,7 +14,7 @@
                     <div class="left">
                         <h1 class="shadow">About Us</h1>
                         <!-- Page navigation-->
-                        <div class="breadcrumb shadow">You are here: <a href="index.html">Home</a> \ About Us</div>
+                        <div class="breadcrumb shadow">You are here: <a href="index.php">Home</a> \ About Us</div>
                         <!-- /Page navigation-->
                     </div>
 
